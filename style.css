@@ -1,0 +1,14 @@
+body {
+	background-color: orange;
+	color: black;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+p{
+
+}
+#Activision, #HBChars, #HBO {
+	width:400px;
+}
+#AChars1, #AChars2, #Achars3 {
+	width:300px;
+}
