@@ -10,5 +10,14 @@ p{
 	width:400px;
 }
 #AChars1, #AChars2, #Achars3 {
-	width:300px;
+	width:400px;
+}
+#name {
+	border-style: solid ;
+	text-align: center
+}
+.button{
+	background-color: white;
+	
+
 }
