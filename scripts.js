@@ -11,7 +11,6 @@ function initMap() {
   // place a marker at overpass
   var deleted1= new google.maps.LatLng(42.727218, -73.799254);
   var deleted2= new google.maps.LatLng(42.728664, -73.796741);
-  var 
 
   var bridge1 = new google.maps.Marker({
     position: {lat: 42.725565, lng: -73.802443},
