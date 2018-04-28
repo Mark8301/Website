@@ -19,8 +19,16 @@ p{
     border-style: solid ;
     text-align: center
 }
-.button{
-    background-color: white;
-    
-
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #555555;
 }
